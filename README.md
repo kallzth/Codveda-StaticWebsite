@@ -10,15 +10,7 @@ Key Features: Mobile-first responsive design, hover effects, and structured layo
 
 Tech Stack: HTML5, CSS3, JavaScript.
 
-2. Personal Professional Portfolio (Level 1, Task 2)
 
-A high-end personal showcase designed to highlight my software engineering journey.
-
-Description: Moving beyond basic layouts, this portfolio uses modern UI trends like glassmorphism and bento-grid structures. It includes an "About Me" section, a skills showcase, and a contact form.
-
-Key Features: Interactive UI elements, optimized asset loading, and a sophisticated dark-themed aesthetic.
-
-Tech Stack: HTML5, Modern CSS (Flexbox/Grid), JavaScript.
 
 🎓 Internship Reflection
 
