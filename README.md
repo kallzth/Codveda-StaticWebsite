@@ -1,16 +1,24 @@
-🚀 Projects Overview
+Codveda Corporate Landing Page 🏢
 
-1. Corporate Static Website (Level 1, Task 1)
+This project is a professional, multi-page landing page developed for Codveda Technology as part of my Web Development Internship (Level 1, Task 1).
 
-A professional, multi-page landing page designed for Codveda Technology.
+🌟 Project Highlights
 
-Description: This project focuses on semantic HTML5 and clean CSS3 to create a corporate identity. It features a responsive navigation bar, a "Services" section, and a professional footer.
+Semantic HTML5: Structured for high SEO and accessibility.
 
-Key Features: Mobile-first responsive design, hover effects, and structured layout.
+Modern CSS3: Utilizes custom properties and flexbox for a clean, professional aesthetic.
 
-Tech Stack: HTML5, CSS3, JavaScript.
+Mobile-First Design: Fully responsive layout that adapts seamlessly to all device sizes.
 
+Optimized Navigation: Features a sticky glassmorphism header for easy navigation.
 
+🛠️ Tech Stack
+
+Structure: HTML5
+
+Styling: CSS3
+
+Interactivity: Vanilla JavaScript
 
 🎓 Internship Reflection
 
